@@ -1,0 +1,32 @@
+- everyone needs to pull the git repository and create their own branch 
+	(ALWAYS PULL before working on your stuff if you are dependent on 
+		someone else's code)
+		
+- set up a page structure (everyone could create their own pages?)
+
+--------------------------------------
+
+- camera page (will use native api) - ashley 
+- profile page - TJ
+	- image of you 
+	- name 
+	- list of kills/deaths
+- feed 
+- help page (up in the top right) - instructions
+- login page (will involve backend stuff) - Annie
+- menu - KJ
+
+tables in DB
+- users
+	- id
+	- name 
+	- image 
+	- snipes 
+	- deaths
+- snipes
+	- id
+	- killed_id
+	- sniper_id
+	- date 
+	- image
+	
